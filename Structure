@@ -1,0 +1,19 @@
+InspectFlow-AI/
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── app.py
+├── sample_data.json
+├── .gitignore
+│
+├── docs/
+│   ├── architecture.png
+│   ├── workflow.png
+│
+├── demo/
+│   ├── demo_video.mp4
+│
+└── screenshots/
+    ├── dashboard.png
+    ├── inspection.png
